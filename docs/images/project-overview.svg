@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#F5F3EC"/>
+<rect x="75" y="55" width="275" height="49" rx="24" fill="#16745A" stroke="none" stroke-width="3"/>
+<text x="102.0" y="86.1" fill="#FFFFFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22">OPEN SOURCE · MIT</text>
+<text x="75.0" y="217.2" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="83">让闲置 ESP32</text>
+<text x="75.0" y="317.2" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="83">叫醒你的 Mac mini</text>
+<text x="80.0" y="381.1" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30">Wake your Mac from your iPhone. Keep the password local.</text>
+<rect x="115" y="465" width="155.4" height="249.9" rx="25" fill="#122C36" stroke="none" stroke-width="3"/>
+<rect x="125.5" y="477.6" width="134.4" height="222.60000000000002" rx="17" fill="#E6EEE7" stroke="none" stroke-width="3"/>
+<rect x="165.4" y="482.85" width="54.6" height="10.5" rx="5" fill="#122C36" stroke="none" stroke-width="3"/>
+<rect x="140.2" y="533.25" width="45.15" height="45.15" rx="10" fill="#16745A" stroke="none" stroke-width="3"/>
+<rect x="196.9" y="533.25" width="45.15" height="45.15" rx="10" fill="#D86636" stroke="none" stroke-width="3"/>
+<rect x="140.2" y="594.15" width="45.15" height="45.15" rx="10" fill="#7762A8" stroke="none" stroke-width="3"/>
+<rect x="196.9" y="594.15" width="45.15" height="45.15" rx="10" fill="#397BAE" stroke="none" stroke-width="3"/>
+<rect x="167.5" y="679.2" width="50.400000000000006" height="5.25" rx="2" fill="#122C36" stroke="none" stroke-width="3"/>
+<circle cx="506.0" cy="551.7" r="38.5" fill="#DFE9EF" stroke="none" stroke-width="3"/>
+<circle cx="553.3" cy="540.7" r="51.7" fill="#DFE9EF" stroke="none" stroke-width="3"/>
+<circle cx="603.9" cy="558.3" r="38.5" fill="#DFE9EF" stroke="none" stroke-width="3"/>
+<rect x="474.1" y="552.8" width="162.8" height="48.400000000000006" rx="20" fill="#DFE9EF" stroke="none" stroke-width="3"/>
+<text x="524.5" y="577.0" fill="#397BAE" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24">HTTPS</text>
+<rect x="825" y="510" width="204.60000000000002" height="170.5" rx="14" fill="#16745A" stroke="none" stroke-width="3"/>
+<rect x="873.4" y="550.7" width="107.80000000000001" height="89.10000000000001" rx="8" fill="#122C36" stroke="none" stroke-width="3"/>
+<text x="895.8" y="598.2" fill="#FFFFFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23">ESP32</text>
+<rect x="816.2" y="524.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="1016.4" y="524.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="816.2" y="546.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="1016.4" y="546.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="816.2" y="568.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="1016.4" y="568.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="816.2" y="590.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="1016.4" y="590.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="816.2" y="612.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="1016.4" y="612.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="816.2" y="634.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="1016.4" y="634.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="816.2" y="656.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<rect x="1016.4" y="656.3" width="22.0" height="8.8" rx="1" fill="#C5A85B" stroke="none" stroke-width="3"/>
+<circle cx="995.5" cy="532.0" r="5.5" fill="#8DE7B2" stroke="none" stroke-width="3"/>
+<rect x="1220" y="515" width="246.40000000000003" height="159.5" rx="28" fill="#CCD6D6" stroke="#122C36" stroke-width="3"/>
+<rect x="1235.4" y="528.2" width="215.60000000000002" height="115.50000000000001" rx="22" fill="#E6EBE8" stroke="none" stroke-width="3"/>
+<text x="1280.7" y="587.8" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="28">Mac mini</text>
+<circle cx="1432.3" cy="658.0" r="3.3000000000000003" fill="#16745A" stroke="none" stroke-width="3"/>
+<polyline points="295,580 445,580" fill="none" stroke="#16745A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0810964478637,588.1502341562715 445,580 430.0810964478637,571.8497658437285" fill="none" stroke="#16745A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="655,580 800,580" fill="none" stroke="#16745A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="785.0810964478636,588.1502341562715 800,580 785.0810964478636,571.8497658437285" fill="none" stroke="#16745A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1045,580 1200,580" fill="none" stroke="#16745A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1185.0810964478637,588.1502341562715 1200,580 1185.0810964478637,571.8497658437285" fill="none" stroke="#16745A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="105.0" y="765.1" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30">手机快捷指令</text>
+<text x="115.5" y="801.4" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="20">iPhone Shortcuts</text>
+<text x="495.0" y="765.1" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30">云端转发</text>
+<text x="501.5" y="801.4" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="20">HTTPS relay</text>
+<text x="852.5" y="765.1" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30">闲置 ESP32</text>
+<text x="845.0" y="801.4" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="20">Wi-Fi → Bluetooth</text>
+<text x="1272.5" y="765.1" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30">你的 Mac</text>
+<text x="1259.0" y="801.4" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="20">Wake from sleep</text>
+<text x="346.5" y="551.5" fill="#16745A" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19">HTTPS</text>
+<text x="704.5" y="551.5" fill="#16745A" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19">Wi-Fi</text>
+<text x="1076.5" y="551.5" fill="#16745A" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19">Bluetooth</text>
+</svg>

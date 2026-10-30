@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1080" viewBox="0 0 1600 1080" role="img">
+<rect width="1600" height="1080" fill="#F5F3EC"/>
+<text x="70.0" y="120.7" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="64">五个入口，一眼分清</text>
+<text x="75.0" y="175.2" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="29">Five Shortcuts, each with a clear role.</text>
+<rect x="70" y="240" width="460" height="295" rx="24" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<rect x="98" y="268" width="70" height="70" rx="18" fill="#738995" stroke="none" stroke-width="3"/>
+<circle cx="133.0" cy="306.0" r="19" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+<polyline points="133.0,295.0 133.0,306.0 143.0,306.0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="125.0,279.0 141.0,279.0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="98.0" y="396.3" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36">自动睡眠时间</text>
+<text x="98.0" y="441.9" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24">Idle sleep timer</text>
+<text x="98.0" y="502.0" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23">20–300 分钟，8 档可选</text>
+<rect x="565" y="240" width="460" height="295" rx="24" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<rect x="593" y="268" width="70" height="70" rx="18" fill="#7762A8" stroke="none" stroke-width="3"/>
+<circle cx="628.0" cy="303.0" r="21" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<circle cx="639.0" cy="294.0" r="20" fill="#7762A8" stroke="none" stroke-width="3"/>
+<text x="593.0" y="396.3" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36">远程睡眠</text>
+<text x="593.0" y="441.9" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24">Sleep now</text>
+<text x="593.0" y="501.1" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22">收到请求后调用系统睡眠</text>
+<rect x="1060" y="240" width="460" height="295" rx="24" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<rect x="1088" y="268" width="70" height="70" rx="18" fill="#397BAE" stroke="none" stroke-width="3"/>
+<circle cx="1118.0" cy="298.0" r="16" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+<polyline points="1130.0,310.0 1144.0,324.0" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1088.0" y="396.3" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36">在线查询</text>
+<text x="1088.0" y="441.9" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24">Online check</text>
+<text x="1088.0" y="501.1" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22">只认本次请求对应的 Mac 回执</text>
+<rect x="70" y="570" width="460" height="295" rx="24" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<rect x="98" y="598" width="70" height="70" rx="18" fill="#D86636" stroke="none" stroke-width="3"/>
+<circle cx="133.0" cy="633.0" r="12" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<polyline points="152.0,633.0 159.0,633.0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="146.4350288425444,646.4350288425444 151.38477631085024,651.3847763108503" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="133.0,652.0 133.0,659.0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="119.5649711574556,646.4350288425444 114.61522368914976,651.3847763108503" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="114.0,633.0 107.0,633.0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="119.56497115745559,619.5649711574556 114.61522368914976,614.6152236891497" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="133.0,614.0 133.0,607.0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="146.4350288425444,619.5649711574556 151.38477631085024,614.6152236891497" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="98.0" y="726.3" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36">蓝牙唤醒</text>
+<text x="98.0" y="771.9" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24">Bluetooth wake</text>
+<text x="98.0" y="831.1" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22">ESP32 发送一次唤醒按键</text>
+<rect x="565" y="570" width="460" height="295" rx="24" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<rect x="593" y="598" width="70" height="70" rx="18" fill="#16745A" stroke="none" stroke-width="3"/>
+<rect x="610.0" y="633.0" width="36" height="25" rx="6" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<polyline points="618.0,633.0 618.0,616.0 641.0,616.0 641.0,624.0" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="593.0" y="726.3" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36">唤醒并解锁</text>
+<text x="593.0" y="771.9" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24">Wake and unlock</text>
+<text x="593.0" y="831.1" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22">锁屏检查后，在 Mac 本机输入密码</text>
+<rect x="1060" y="570" width="460" height="295" rx="20" fill="#E3EBDF" stroke="none" stroke-width="3"/>
+<text x="1090.0" y="637.8" fill="#16745A" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="32">可选的自动解锁</text>
+<text x="1090.0" y="697.6" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="26">密码只在 Mac 本地填写</text>
+<text x="1090.0" y="745.9" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24">个人快捷指令含控制令牌</text>
+<text x="1090.0" y="795.9" fill="#16745A" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24">请勿公开分享</text>
+<text x="70.0" y="951.8" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25">功能示意，不是应用截图。 / Concept illustrations, not application screenshots.</text>
+<text x="70.0" y="1005.9" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24">唤醒指从睡眠恢复，不支持完全关机开机。 / Wake from sleep, not power-on from shutdown.</text>
+</svg>

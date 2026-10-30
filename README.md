@@ -1,5 +1,7 @@
 # ESP32 Mac Remote Control · ESP32 远程控制 Mac
 
+![ESP32, iPhone and Mac overview / 设备连接示意](docs/images/project-overview.svg)
+
 用闲置的 ESP32、iPhone 快捷指令和本机助手，让 Mac mini 在需要时醒来，完成工作后再睡眠。支持远程睡眠、修改自动睡眠时间、蓝牙唤醒，以及经过锁屏检查后在 Mac 本地输入密码。
 
 Reuse a spare ESP32 with iPhone Shortcuts and a local helper to wake your Mac mini when needed and put it back to sleep afterward. Includes remote sleep, idle-sleep timing, Bluetooth wake, and optional local password entry after lock-state checks.
@@ -16,6 +18,8 @@ Pair remote Codex in advance, keep the desktop app signed in, and keep the Mac a
 
 ## 功能 / Features
 
+![Five Shortcuts / 五个快捷指令功能示意](docs/images/shortcut-guide.svg)
+
 | 快捷指令 / Shortcut | 作用 / Behavior | 建议图标 / Icon |
 |---|---|---|
 | Mac 自动睡眠 / Mac Idle Sleep | 选择 20、30、50、60、120、180、240、300 分钟的系统空闲睡眠时间 / Set the system idle-sleep timer in minutes | 灰色计时器 / Gray timer |
@@ -30,6 +34,13 @@ Pair remote Codex in advance, keep the desktop app signed in, and keep the Mac a
 
 ## 工作原理 / How it works
 
+![Wake and local unlock architecture / 唤醒与本机解锁原理](docs/images/architecture.svg)
+
+配图为根据源码绘制的示意图，不含真实设备照片、账号、网络名称或凭据。 / These original source-based illustrations contain no real device photos, accounts, network names, or credentials.
+
+<details>
+<summary>查看文字连接流程 / Text connection flow</summary>
+
 ```mermaid
 flowchart LR
     P[iPhone Shortcuts] -->|HTTPS wake request| R[Your cloud relay]
@@ -40,6 +51,8 @@ flowchart LR
     K[Local macOS Keychain] -->|Password stays on Mac| H
     C[Mobile Codex] -->|Previously paired remote access| M
 ```
+
+</details>
 
 ESP32 需要接入你配置的 Wi‑Fi 并能访问转发服务，放在 Mac 蓝牙覆盖范围内。配置完成后可接独立 USB 电源，不需要用 USB 数据线连接 Mac。Mac 与 ESP32 不必在同一个局域网；安装脚本不会切换 Mac 的网络。
 

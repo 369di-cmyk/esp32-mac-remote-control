@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1080" viewBox="0 0 1600 1080" role="img">
+<rect width="1600" height="1080" fill="#122C36"/>
+<text x="70.0" y="120.7" fill="#FFFFFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="64">唤醒走蓝牙，密码留本机</text>
+<text x="75.0" y="175.2" fill="#ADC9CB" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="29">Bluetooth wakes the Mac. The local helper handles unlock.</text>
+<rect x="70" y="260" width="350" height="175" rx="24" fill="#203E47" stroke="none" stroke-width="3"/>
+<text x="100.0" y="327.6" fill="#FFFFFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34">iPhone 快捷指令</text>
+<text x="100.0" y="384.3" fill="#ADC9CB" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21">Trigger wake + unlock request</text>
+<rect x="625" y="260" width="350" height="175" rx="24" fill="#203E47" stroke="none" stroke-width="3"/>
+<text x="655.0" y="327.6" fill="#FFFFFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34">你的转发服务</text>
+<text x="655.0" y="384.3" fill="#ADC9CB" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21">Your HTTPS relay</text>
+<rect x="1180" y="260" width="350" height="175" rx="24" fill="#203E47" stroke="none" stroke-width="3"/>
+<text x="1210.0" y="327.6" fill="#FFFFFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34">ESP32</text>
+<text x="1210.0" y="384.3" fill="#ADC9CB" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21">Independent USB power</text>
+<polyline points="425,345 615,345" fill="none" stroke="#E4AD66" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="600.0810964478636,353.15023415627144 615,345 600.0810964478636,336.84976584372856" fill="none" stroke="#E4AD66" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="489.5" y="313.0" fill="#E4AD66" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23">HTTPS</text>
+<polyline points="975,345 1170,345" fill="none" stroke="#E4AD66" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1155.0810964478637,353.15023415627144 1170,345 1155.0810964478637,336.84976584372856" fill="none" stroke="#E4AD66" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1026.5" y="312.1" fill="#E4AD66" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22">轮询 / Poll</text>
+<rect x="70" y="650" width="350" height="175" rx="20" fill="#203E47" stroke="none" stroke-width="3"/>
+<text x="100.0" y="719.6" fill="#FFFFFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34">iCloud Drive</text>
+<text x="100.0" y="771.8" fill="#ADC9CB" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25">一次性请求 · 回执</text>
+<polyline points="245,445 245,635" fill="none" stroke="#83C8E5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="236.84976584372856,620.0810964478636 245,635 253.15023415627144,620.0810964478636" fill="none" stroke="#83C8E5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="275.0" y="539.1" fill="#83C8E5" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22">同步 / Sync</text>
+<rect x="625" y="570" width="905" height="370" rx="28" fill="#ECF3EC" stroke="none" stroke-width="3"/>
+<rect x="658" y="598" width="255" height="49" rx="24" fill="#16745A" stroke="none" stroke-width="3"/>
+<text x="673.0" y="629.1" fill="#FFFFFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22">MAC · LOCAL ONLY</text>
+<text x="660.0" y="706.3" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36">锁屏检查 → 系统目标校验 → 本机输入</text>
+<rect x="660" y="750" width="365" height="130" rx="18" fill="#D6E7D9" stroke="none" stroke-width="3"/>
+<text x="685.0" y="800.4" fill="#16745A" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="28">钥匙串 / Keychain</text>
+<text x="685.0" y="847.0" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23">登录密码只存这里</text>
+<rect x="1060" y="750" width="430" height="130" rx="18" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<text x="1088.0" y="800.4" fill="#122C36" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="28">本机解锁助手</text>
+<text x="1088.0" y="847.0" fill="#52676E" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23">Local unlock helper</text>
+<polyline points="1030,815 1050,815" fill="none" stroke="#16745A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1035.0810964478637,823.1502341562715 1050,815 1035.0810964478637,806.8497658437285" fill="none" stroke="#16745A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="425,735 610,735" fill="none" stroke="#83C8E5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="595.0810964478636,743.1502341562715 610,735 595.0810964478636,726.8497658437285" fill="none" stroke="#83C8E5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="451.0" y="691.4" fill="#83C8E5" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="20">请求 / Request</text>
+<polyline points="1355,445 1355,555" fill="none" stroke="#E4AD66" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1346.8497658437286,540.0810964478636 1355,555 1363.1502341562714,540.0810964478636" fill="none" stroke="#E4AD66" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1110.0" y="504.8" fill="#E4AD66" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25">BLE HID 唤醒</text>
+<text x="70.0" y="992.6" fill="#FFFFFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="26">ESP32 与云端不接收 Mac 登录密码。 / ESP32 and relay never receive the Mac login password.</text>
+<text x="70.0" y="1042.4" fill="#ADC9CB" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="20">Concept diagram · Requires a previously logged-in macOS session; no shutdown or FileVault preboot unlock.</text>
+</svg>
