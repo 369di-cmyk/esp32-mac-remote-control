@@ -1,0 +1,9 @@
+{
+  "name": "esp32-mac-wake-relay",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-01",
+  "durable_objects": {
+    "bindings": [{ "name": "WAKE_RELAY", "class_name": "WakeRelay" }]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["WakeRelay"] }]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "esp32-mac-wake-relay",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node ../tests/relay.test.mjs",
+    "check": "wrangler deploy --dry-run --outdir ../build/relay",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": { "wrangler": "4.149.0" }
+}

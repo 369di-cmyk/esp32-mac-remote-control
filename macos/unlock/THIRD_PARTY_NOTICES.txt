@@ -1,0 +1,43 @@
+Mac 唤醒并解锁 2.0 — third-party source attribution
+
+LocalUnlock.h is an Objective-C adaptation of the macOS 27 lock-state,
+system-target verification and directed keyboard-delivery helpers from:
+https://github.com/ts1/BLEUnlock/pull/195
+Repository: https://github.com/finemax/BLEUnlock
+Fixed commit: c4661c8becc6a1556a4d1e42a130f6ab81c1ddf1
+PR contributor: finemax
+Files: ScreenLockState.swift, SystemUnlockTarget.swift, UnlockKeyboard.swift,
+and the relevant AppDelegate.swift integration.
+
+The upstream README declares MIT and the following copyright notice:
+Copyright © 2019-2022 Takeshi Sone.
+https://github.com/finemax/BLEUnlock/blob/c4661c8becc6a1556a4d1e42a130f6ab81c1ddf1/README.md#license
+
+Local adaptations preserve fixed system-process targeting and fail-closed lock
+checks. They add per-pair cancellation/deadline/Caps Lock checks and local
+Backspace clearing, and replace proximity-triggered unlock with the user's
+existing expiring, authenticated, deduplicated request. Passwords are not sent
+to ESP32, a network service, logs, or shortcuts. This is an adapted local build,
+not an official BLEUnlock release or a claim of upstream endorsement.
+
+MIT License
+
+Copyright © 2019-2022 Takeshi Sone.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

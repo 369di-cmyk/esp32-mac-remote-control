@@ -1,0 +1,4 @@
+# Local testing only: replace with two DIFFERENT 64-character random hex values.
+# 仅供本地测试：替换为两个不同的 64 位随机十六进制令牌。
+DEVICE_TOKEN="REPLACE_ME_DEVICE_TOKEN"
+PHONE_TOKEN="REPLACE_ME_PHONE_TOKEN"
